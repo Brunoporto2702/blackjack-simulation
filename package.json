@@ -1,0 +1,15 @@
+{
+  "name": "blackjack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "blackjackmodel.js",
+  "scripts": {
+    "test": "test",
+    "start": "ts-node src/blackjackmodel"
+  },
+  "author": "Bruno Porto",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.7.4"
+  }
+}
